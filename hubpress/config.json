@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "parkowski",
-    "repositoryName": "parkowski.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "uno"
-  }
-}
+{"meta":{"username":"parkowski","repositoryName":"parkowski.github.io","branch":"master"},"site":{"disqus":"disqus_1DLvqOTsaO","url":"https://parkowski.github.io"},"socialnetwork":{},"theme":{"name":"Uno","url":"//parkowski.github.io/themes/Uno"}}
